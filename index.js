@@ -45,13 +45,23 @@ inquirer
       },
       {
         type: 'input',
-        name: 'test',
+        name: 'tests',
         message: 'Tests:',
       },
       {
         type: 'input',
         name: 'questions',
         message: 'Questions:',
+      },
+      {
+        type: 'input',
+        name: 'git',
+        message: 'GitHub Username:',
+      },
+      {
+        type: 'input',
+        name: 'email',
+        message: 'Email:',
       }
 ])
 
