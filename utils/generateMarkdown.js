@@ -20,7 +20,7 @@ function generateMarkdown(data) {
   ${data.description}
 
   Table of Contents:
-  1. Installation
+  [1. Installation](https://github.com/jlheinecke/challenge-9)
   2. Usage
   3. License
   4. Contributing

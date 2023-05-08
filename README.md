@@ -1,12 +1,12 @@
 
   Title:
-  title ![badge](https://img.shields.io/badge/license-MIT)
+  title ![badge](https://img.shields.io/badge/license-ISC)
 
   Description: 
   des
 
   Table of Contents:
-  1. Installation
+  [1. Installation](https://github.com/jlheinecke/challenge-9)
   2. Usage
   3. License
   4. Contributing
@@ -20,10 +20,10 @@
   usag
 
   License:
-  This application is covered by the MIT license. 
+  This application is covered by the ISC license. 
 
   Contributing:
-  cont
+  kcont
 
   Tests:
   test
@@ -31,6 +31,6 @@
   Questions:
   quest
 ------------------------------------------------
-  GitHub: user--> https://github.com/user
+  GitHub: jlheinecke--> https://github.com/jlheinecke
 
-  If you have additional question contact me at email
+  If you have additional question contact me at james.l.heinecke@gmail.com
