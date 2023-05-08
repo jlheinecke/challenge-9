@@ -25,7 +25,7 @@ function init() {}
 // Function call to initialize app
 init(); 
 
-const inquirer = require('inquirer');
+/* const inquirer = require('inquirer');
 const fs = require('fs');
 
 const generateHTML = ({ name, location, github, linkedin }) =>
@@ -91,4 +91,5 @@ inquirer
     fs.writeFile('index.html', htmlPageContent, (err) =>
       err ? console.log(err) : console.log('Successfully created index.html!')
     );
-  });
+  }); */
+ 
