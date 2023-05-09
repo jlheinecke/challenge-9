@@ -1,10 +1,10 @@
 
   # Title
-  My Title<br>
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  The Title of My Project<br>
+  [![License: Mozilla](https://img.shields.io/badge/License-Mozilla-yellow.svg)](https://opensource.org/licenses/Mozilla)
 
   # Description 
-  My Project
+  My code builds a README
 
   # Table of Contents<br>
   [1. Installation](/#installation)<br>
@@ -15,16 +15,16 @@
   [6. Questions](/#questions)<br>
   
   # Installation<br>
-  Install
+  Follow the instructions
 
   # Usage<br>
-  Use
+  Everyone should use it
 
   # License<br>
-  This application is covered by the MIT license. 
+  This application is covered by the Mozilla license. 
 
   # Contributing<br>
-  All my friends
+  All my rowdy friends
 
   # Tests<br>
   None
