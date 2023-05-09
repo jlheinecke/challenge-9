@@ -73,12 +73,6 @@ inquirer
 ])
 
 .then((data) => {
-  /* const license = data.license */
-  /* console.log(license) */
- const badge = renderLicenseBadge(data.license);
-  console.log(badge)
-  const link = renderLicenseLink(data.license); 
-  console.log(link)
 
   const READMEContent = generateMarkdown(data);
   fs.writeFile('README.md', READMEContent, (err) =>
