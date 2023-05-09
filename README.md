@@ -7,12 +7,12 @@
   desc
 
   # Table of Contents<br>
-  [1. Installation](#installation)<br>
-  [2. Usage](#usage)<br>
-  [3. License](#license)<br>
-  [4. Contributing](#contriburing)<br>
-  [5. Tests](#tests)<br>
-  [6. Questions](#questions)<br>
+  [1. Installation](/#installation)<br>
+  [2. Usage](/#usage)<br>
+  [3. License](/#license)<br>
+  [4. Contributing](/#contriburing)<br>
+  [5. Tests](/#tests)<br>
+  [6. Questions](/#questions)<br>
   
   # Installation<br>
   inst
@@ -24,7 +24,7 @@
   This application is covered by the Apache license. 
 
   # Contributing<br>
-  contr
+  cont
 
   # Tests<br>
   test
@@ -32,6 +32,6 @@
   # Questions<br>
   quest
 ------------------------------------------------
-  GitHub: jlh--> https://github.com/jlh
+  GitHub: git--> https://github.com/git
 
-  If you have additional question contact me at jlh
+  If you have additional question contact me at git
