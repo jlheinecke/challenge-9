@@ -1,10 +1,9 @@
 
   Title:
-   
-  [![License: Apache](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache)
+  title [![License: GNU](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/GNU)
 
   Description: 
-  
+  desc
 
   Table of Contents:
   [1. Installation](https://github.com/jlheinecke/challenge-9#installation)
@@ -15,23 +14,23 @@
   6. Questions
 
   Installation:
-  
+  insta
 
   Usage:
-  
+  usage
 
   License:
-  This application is covered by the Apache license. 
+  This application is covered by the GNU license. 
 
   Contributing:
-  
+  cont
 
   Tests:
-  
+  test
 
   Questions:
-  
+  quest
 ------------------------------------------------
-  GitHub: --> https://github.com/
+  GitHub: jh--> https://github.com/jh
 
-  If you have additional question contact me at 
+  If you have additional question contact me at jh
