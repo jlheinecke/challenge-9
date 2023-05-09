@@ -2,10 +2,12 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
+const renderLicenseBadge = require('./utils/generateMarkdown');
+const renderLicenseLink = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 
-inquirer 
+inquirer  
   .prompt
  ([
     {
@@ -39,7 +41,8 @@ inquirer
             "ISC",
             "MIT",
             "Mozilla",
-            "Open"
+            "Open",
+            "Other"
         ]
       },
       {
@@ -70,10 +73,17 @@ inquirer
 ])
 
 .then((data) => {
-  const READMEContent = generateMarkdown(data);
+  /* const license = data.license */
+  /* console.log(license) */
+ const badge = renderLicenseBadge(data.license);
+  console.log(badge)
+  const link = renderLicenseLink(data.license); 
+  console.log(link)
 
+  const READMEContent = generateMarkdown(data);
   fs.writeFile('README.md', READMEContent, (err) =>
     err ? console.log(err) : console.log('Successfully created README.md!')
   );
-});
+})
+
 
